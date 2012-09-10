@@ -1,0 +1,7 @@
+Content\Chess.board.fabric.xnb
+Content\pawn.xnb
+Content\chess_piece_white_king.xnb
+Content\Rook.xnb
+Content\Knight.xnb
+Content\Bishop.xnb
+Content\Queen.xnb
